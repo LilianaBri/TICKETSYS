@@ -14,3 +14,5 @@ Desarrollar un CRM para la empresa X, con la metodologia Scrum y  las herramient
 - FRAMEWORK:
 - IDE:
 - CVS
+  
+## 
